@@ -1,18 +1,18 @@
 {
-  "version": "0.13.0-test.1",
-  "pub_date": "2026-08-27T03:26:07Z",
+  "version": "0.13.0-test.2",
+  "pub_date": "2026-09-02T19:43:02Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaHFHUmRrM3R4eStKSXVtSXF1by9hT0Eydkl2S3h1SkFFQlp1bHBFOThhekNqeHk2L21xMlB2OVBDUHhYQys5VnByMDduRmYzYnhySWE3dElzWENpM3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Nzk5NjEyCWZpbGU6WmVyb1Nob3QgVGVzdGluZy5hcHAudGFyLmd6CmxsNU9PbTdXK0hmeC9USkltMCtEMDJ0ajBlZ3QwOHBXM29Vd3U5Smw0TnFwT2kvNHo5QU0rQ25QakVaaVZRaGlmNkhyVlRjYjZiR2x3K2FjZkVKdUFBPT0K",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.1/zeroshot-testing-0.13.0-test.1-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaG1lcSsxbEVDd0RucWZlYUxuK0ZITHRIdDZueEN1OTduTmZaekYwVW1Ta0Via1RaTWhWUlIwSGI0YThXSWc1UDV2emFtVW1FajBiOHBtRWZ6YVZaNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mzc2NzMxCWZpbGU6WmVyb1Nob3QgVGVzdGluZy5hcHAudGFyLmd6Clo2RFRoVnMvRFdKOUJQT29Sdk9DYjVRcko3MjNxdXFKZjJ2ZGNhNzkzOVZrY1c0THpGSWx3TDFaSSttT3ZQbkJ5di8wWVdhblUxRWRXWkFXdksvSER3PT0K",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.2/zeroshot-testing-0.13.0-test.2-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaHZhUlRrRnltU1R0UHZxV01yUndkR040dmJObzE3cnRySmUwTUtjWEczcWUvTVMrZDFBTkVyVHpweVp1VDNxUk9hckk1ZEkwVnZUUHhGcm5FZWpEZmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Nzk5NzIyCWZpbGU6WmVyb1Nob3QgVGVzdGluZy5hcHAudGFyLmd6ClNuUWFNOWVENnl6NXJyYzZsTWZGeVB2QXN2ZDlCNkcwTXhqSlpycU9Qc0xVSUhYSFVoUlpLNGVpY2ZDY1FQZFNJMjFZL1lqc0MxNW8vYmxBWXYxS0NnPT0K",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.1/zeroshot-testing-0.13.0-test.1-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaG9vS1hPMzcveUphT0duL2RDQ1UvT3IxMHI4U1NENkhFY3I4b0lQQlJFbkJza1JZcDUwWE1lak0xZVJnV2Mxa0QwcWFjbFZueVNtSHhWMTZTTStld3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mzc2NjYxCWZpbGU6WmVyb1Nob3QgVGVzdGluZy5hcHAudGFyLmd6CnR0czdWMkY1MkRta29RbE1weTUwYlE5NlpDK08rRzBLVExsbVpEMzM0bzIvOVpiTERDWXpTT2l2aVJLbmtTOFNzdDllSWVmTG85MDBqeGtDMFRwNUNBPT0K",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.2/zeroshot-testing-0.13.0-test.2-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaGlMYW15VzFPVW5IV3VSbDUzNmhVRFVZYUk2eHBHRC9oeEgzaS9aTHpIK3doT0NWbVFzWmdNSEhqN0M3WVJQZVZLbC9YUFlmclZYVDNSQ0poVGh3U2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODAwNzgyCWZpbGU6WmVyb1Nob3QgVGVzdGluZ18wLjEzLjAtdGVzdC4xX3g2NC1zZXR1cC5leGUKLy83bSs2Qk9hRlE4WFo5ZlZUTndyclMzV1J1bEdpREh6cDhkSGd1TnR5SzYxdjVvZDJiTWk0SXNwRXJCcWc1bm54WUwwZkVDdDdIRVk2MDl2bkVzQ3c9PQo=",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.1/zeroshot-testing-0.13.0-test.1-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaGx6ZnN0RHJwVDBGQWRoeHd4NEkxVEx2TTNndzlnVFpTbE5jTHhBVVdaM0pmWWZmblJzdHQzV2xEeHo2NXdBNTVYV0YyKzc5WTZ4ODBhc0ZrZEUvYXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Mzc3NzgxCWZpbGU6WmVyb1Nob3QgVGVzdGluZ18wLjEzLjAtdGVzdC4yX3g2NC1zZXR1cC5leGUKVDJMWG41MnFtbU1YZGYrczNkVkFZRFVneURMeGxnUXRFT1pPdEtoREpNbmFjMm9zV0FVc2RsMUFtZUgxYkZNd1FtL1kwdlRmaXVldHI1WWFSNGNwQkE9PQo=",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/testing/v0.13.0-test.2/zeroshot-testing-0.13.0-test.2-x86_64-setup.exe"
     }
   }
 }
