@@ -1,18 +1,18 @@
 {
-  "version": "0.14.0-rc.9",
-  "pub_date": "2026-10-29T17:27:16Z",
+  "version": "0.14.0-rc.10",
+  "pub_date": "2026-10-30T19:46:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaGtKVk1hVDZ6ZVhOMC9IVzVzRUFLalBDOHVJby9QakFZMjUyNWhKbmlaYUdQVlg1aVloMUwxWEJMbkVqRDdCMG9DVFlSM1BRV0VwT0VtZDZTN091eVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzNjYyCWZpbGU6WmVyb1Nob3QgU3RhZ2luZy5hcHAudGFyLmd6CmxZWDcvL1ZaT2xnY0xYeFh2OEUvNG04STdyV2FWY0l3QzVQLzB5VVRvNWhEQ0RMOVhubjB4N3BJZk9oYUZoUlRZR1N2YS9ZUXNzdm4zZFhObGQvZkRBPT0K",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.9/zeroshot-staging-0.14.0-rc.9-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaHNCOXAwTTE0N3hISWxtdUc2TlB3ajVqRTBXM3M2S1JFUWEzbkUyQ3liSmhRNWxKWmpmVUtnYm9ucCtUVmNHNmJRblcxK2VMY0VkTWh3NGY0WU00VkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg4NDYyCWZpbGU6WmVyb1Nob3QgU3RhZ2luZy5hcHAudGFyLmd6CmVKN1paVzdIVmFydXF2R1U1ck9ocVVsejNnVXdzdnVuTzZLMU5UZ0pnSXl3QXJycURKTTcrMW5ibHoyNmlKeVJpbnR6b2Z1MTh2b2pyclJ6b2p4R0JRPT0K",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.10/zeroshot-staging-0.14.0-rc.10-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaGl4ZHB1RzN0Rkt0OXVBY1lzUzVncG9yQnE3TFBkUEVWRHordkVnV3RKY0VWN3VQT2xhTjhySGhSRWdJWitWM091dVU3T3h2aWpRYVNqREFCUDdpTHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkzNjI1CWZpbGU6WmVyb1Nob3QgU3RhZ2luZy5hcHAudGFyLmd6CmZyZ3plb2lFOXZzMXNUcXcxTDNOWlMxOXQySmtNUUFFT3NUYURsYW1xaC9WMTVPR0Fad0pOUG16enlqRThXS084cThpZDhtTGs0cWtsWVRlckFmT0JnPT0K",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.9/zeroshot-staging-0.14.0-rc.9-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaGxLWWhVSGxTSkFoQzl4cG9ZT3psQ01ZUmtMSHVSVElWeEdPdWxWYkg5b3BKLzdZQUMwWTFPZGErMDM5RWZ5OEgzVTNVRzQwYlZVcEdkUHZqb2JGREE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg4NjE4CWZpbGU6WmVyb1Nob3QgU3RhZ2luZy5hcHAudGFyLmd6Ck5VaVFuNU5za1hQWVAyQ3ZyT1grY3dmQ1V6ZXJZbmFNRlk3TWZzUjFHTHlkWXZjN05jMmtIbHhSMXJrVHNoTEVYbG85aWUramJ5S0d6TG1hMXY2V0FBPT0K",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.10/zeroshot-staging-0.14.0-rc.10-x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaHVMOEwxYWN0dWpVd1pVRndLN01XWEJZVytTT2duQ3pnTUsvUmNTUUtKWVIxRjRGc3krR1ZsWitUZkRmQUVhOURmWHlodkt5cHJCdE9jdW54VjREVGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjk0NjU0CWZpbGU6WmVyb1Nob3QgU3RhZ2luZ18wLjE0LjAtcmMuOV94NjQtc2V0dXAuZXhlClAwS1BPZkF4QTBpSWc3NjNVeHlzU3RabHZmTjc2cW8rNWNpZHcxVE8xQXVFOE5idUNvR3NxMkRaTFlYMEJmcHlBZm9IdWNCK1k5UjBKRC8zZjhQakNBPT0K",
-      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.9/zeroshot-staging-0.14.0-rc.9-x86_64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSit4TVNNY1kxaG1NRTVxUzNyMERHREk4eGkveVhhVVdvaTBNY0lwaUFzSkM3L2plOHhrejFiUm5PajRQcUJOclRERzcrNkFDODdJckVYaVdHSXZiVEtqVWovWldmaGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzg5NDI0CWZpbGU6WmVyb1Nob3QgU3RhZ2luZ18wLjE0LjAtcmMuMTBfeDY0LXNldHVwLmV4ZQp4M01nb1FTL01GMlBKbStOajBVMVJBQWdEM1J3aW5MUEpST1Q2ckZvTXVLRXNXR1MrN2hTZVI1bE9xZzFEbzlqUlhzYnE2eXgwa2d6TUR4SjMzVWlBQT09Cg==",
+      "url": "https://github.com/buildbetter-app/zeroshot-releases/releases/download/zeroshot/staging/v0.14.0-rc.10/zeroshot-staging-0.14.0-rc.10-x86_64-setup.exe"
     }
   }
 }
